@@ -1,0 +1,50 @@
+body{
+    background-color: teal;
+}
+
+
+.header #heading{ 
+
+    padding: 60px 0 0;
+    font-size: 70px;
+    text-align: center; 
+    font-family: pacifico;
+    font-size: 120px;
+    color: aqua;
+    margin-bottom: 60px;
+    /* color: aqua; */
+
+}
+
+.dice{
+
+    display: inline-block;
+    padding: 50px;
+
+    
+}
+
+.players{
+    font-family: ubuntu;
+}
+
+.container{
+
+    width: 70%;
+    margin:auto;
+    text-align: center;
+}
+
+.image{
+
+    margin-top: 20px;
+}
+
+
+
+.footer{
+
+    text-align: center;
+    padding: 2em 2em;
+    font-family: pacifico;
+}
